@@ -1,0 +1,25 @@
+; leonardorosa.com
+;
+; [ rpz ] __ accept.zone
+;
+;
+$TTL 86400
+@ SOA rpz.accept.leonardorosa.com. rpz.leonardorosa.com. 2311170400 12H 1H 1W 8H NS localhost.
+;
+googleadservices.com CNAME rpz-passthru.
+doubleclick.net CNAME rpz-passthru.
+analytics.google.com CNAME rpz-passthru.
+adcolony.com CNAME rpz-passthru.
+supersonicads.com CNAME rpz-passthru.
+applovin.com CNAME rpz-passthru.
+unity3d.com CNAME rpz-passthru.
+tapjoyads.com CNAME rpz-passthru.
+adcolony.xyz CNAME rpz-passthru.
+adrta.com CNAME rpz-passthru.
+tapjoy.com CNAME rpz-passthru.
+admarvel.com CNAME rpz-passthru.
+adsmoloco.com CNAME rpz-passthru.
+vungle.com CNAME rpz-passthru.
+adtilt.com CNAME rpz-passthru.
+anzu.io CNAME rpz-passthru.
+myvisualiq.net CNAME rpz-passthru.
