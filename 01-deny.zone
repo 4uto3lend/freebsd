@@ -1,0 +1,15 @@
+# leonardorosa.com
+#
+# unbound.conf __ 01-deny.zone
+#
+# 202310
+
+
+local-zone: "www.roteador.multilaser.com" always_null
+local-zone: "pub.3gppnetwork.org" always_null
+local-zone: "www.ojsbdjn.com" always_null
+local-zone: "weerrhoop.cc" always_null
+local-zone: "jhkkjkj.com" always_null
+local-zone: "lbs-samsung.swypeconnect.com" always_null	# swypeconnect.com
+local-zone: "check.upwitheaway.info" always_null
+#local-zone: "api.amplitude.com" always_null
