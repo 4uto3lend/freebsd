@@ -10,6 +10,6 @@ local-zone: "pub.3gppnetwork.org" always_null
 local-zone: "www.ojsbdjn.com" always_null
 local-zone: "weerrhoop.cc" always_null
 local-zone: "jhkkjkj.com" always_null
-local-zone: "lbs-samsung.swypeconnect.com" always_null	# swypeconnect.com
+local-zone: "lbs-samsung.swypeconnect.com" always_null	# Samsung
+local-zone: "zpu.samsungelectronics.com" always_null	# Samsung
 local-zone: "check.upwitheaway.info" always_null
-#local-zone: "api.amplitude.com" always_null
