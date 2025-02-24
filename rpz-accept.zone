@@ -1,10 +1,10 @@
 ; leonardorosa.com
 ;
-; [ rpz ] __ accept.zone
+; [ rpz ] __ leonardorosa.zone
 ;
 ;
 $TTL 86400
-@ SOA rpz.accept.leonardorosa.com. rpz.leonardorosa.com. 2502171724 12H 1H 1W 8H NS localhost.
+@ SOA rpz.leonardorosa.com. 2502241300 12H 1H 1W 8H NS localhost.
 ;
 ; googleadservices.com CNAME rpz-passthru.
 ; doubleclick.net CNAME rpz-passthru.
@@ -22,5 +22,6 @@ $TTL 86400
 ; vungle.com CNAME rpz-passthru.
 ; adtilt.com CNAME rpz-passthru.
 ; anzu.io CNAME rpz-passthru.
-; myvisualiq.net CNAME rpz-passthru.
-; zapto.org CNAME rpz-passthru.
+
+roteador.multilaser.com CNAME .
+*.roteador.multilaser.com CNAME .
