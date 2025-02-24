@@ -1,6 +1,6 @@
 ; leonardorosa.com
 ;
-; [ rpz ] __ leonardorosa.zone
+; [ rpz.leonardorosa ]
 ;
 ;
 $TTL 86400
