@@ -1,6 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 2502241300 43200 3600 86400 300
-  NS localhost.
+@ SOA localhost. root.localhost. 2502241300 43200 3600 86400 300 NS localhost.
 ;
 ; googleadservices.com CNAME rpz-passthru.
 ; doubleclick.net CNAME rpz-passthru.
